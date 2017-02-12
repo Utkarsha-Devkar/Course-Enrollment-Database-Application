@@ -11,7 +11,7 @@ $course_credits="";
 $dept_id="";
 #  DO NOT USE $course_id = "";
 
-#NO GET METHOD
+#NO GET METHOD here
 
 	
 
